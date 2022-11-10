@@ -14,5 +14,4 @@
 - 🎨 Yararlandığım Resim Bulma Platformu: <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
 - 🔍 Kullandığım Web Tarayıcıları: <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
 - 💖 Kullandığım Web Tarayıcıları: <img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" />
-- 🧡 Sıklıkla Kullandığım Laptop Markam: <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white" />
 - 💚 Benden Bu Kadar, İyi Forumlar!
