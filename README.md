@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/111687202/201155511-0ea96843-d462-472e-96c4-eefda302e896.gif)
+![code](https://user-images.githubusercontent.com/111687202/201155895-507737ac-1b68-401c-b041-2cc3d0648f48.gif)
 - ⚛ Reason is miraculous enough to create everything, and dangerous enough to destroy everything.
 - 👌 Github Sponsorluğum: <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
 - 😎 Çalıştığım Kod Editörü: <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
