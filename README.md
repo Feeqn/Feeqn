@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @Feeqn
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+- ⚛ Reason is miraculous enough to create everything, and dangerous enough to destroy everything.
+- 👌 Github Sponsorluğum: <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
+- 😎 Çalıştığım Kod Editörü: <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+- 💎 Üzerinde Çalıştığım Yazılım Dilleri: <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+- 🤭 Üzerinde Çalıştığım Yazılım Dilleri: <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+- 😁 Üzerinde Çalıştığım Yazılım Dilleri: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+- 🥰 Üzerinde Çalıştığım Yazılım Dilleri: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+- 🥶 Üzerinde Çalıştığım Yazılım Dilleri: <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+- 🥳 Üzerinde Çalıştığım Yazılım Dilleri: <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+- 💻 Kullandığım işletim sistemi: <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+- 🎶 Müzik Dinlediğim Platformlar: <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+- 🎶 Müzik Dinlediğim Platformlar: <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
+- ✨ Yararlandığım Tasarım, Özelleştirme Platformu: <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" />
+- 🎨 Yararlandığım Resim Bulma Platformu: <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
+- 🔍 Kullandığım Web Tarayıcıları: <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
+- 💖 Kullandığım Web Tarayıcıları: <img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" />
+- 🧡 Sıklıkla Kullandığım Laptop Markam: <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white" />
+- 💚 Benden Bu Kadar, İyi Forumlar!
